@@ -1,0 +1,19 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "Rest api usig node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Babita Bisht",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "hbs": "^4.0.1",
+    "mongoose": "^5.4.6"
+  }
+}
